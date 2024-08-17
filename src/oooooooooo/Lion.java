@@ -7,5 +7,7 @@ public class Lion {
 	}
 	if(i<8; i==o; i++){
 	system.out.println("hii");
+      driver.quit();
+      driver.close();
 
 }
